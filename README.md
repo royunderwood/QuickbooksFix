@@ -15,3 +15,6 @@ Error Code      How to Fix it.
 **6190,816**   Delete .TLG and .ND Files from path of company files  
 **80070057**   Permissions not correct for user, Admin needs to Fix this error.  
 **3371**       Run Quickbooks Tool Hub, Choose Installation Issues, Then Click 3371 Error Fix  
+
+
+Must have 3 scripts in same place to work.
