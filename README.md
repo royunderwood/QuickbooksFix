@@ -1,9 +1,8 @@
+**Repair Quickbooks errors on Server Installs**
 
-###Repair Quickbooks errors on Server Installs
+H202, H505, etc..
 
-##H202, H505, etc..
-
-#Error Code      How to Fix it
+Error Code      How to Fix it
 
 **6123**       Run Quickbooks Tool Hub and Choose Program Problems on the Left, 
                Choose Quick Fix my Program
