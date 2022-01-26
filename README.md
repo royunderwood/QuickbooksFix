@@ -13,9 +13,8 @@ Error Code      How to Fix it
 6130    Run Quickbooks Tool Hub, Choose Program Problems, Quick Fix my Program
 6073,  99001    Someone else is logged into Single User Mode.  You cannot Login until they activate multi user mode
 
+6190,  816      Delete .TLG and .ND Files from path of company files
 
-6190,  816      Delete .TLG and .ND Files from q:\
+80070057        Permissions not correct for user, Admin needs to Fix this error.
 
-80070057        Permissions not correct for user, Roy needs to Fix this error.
-
-3371    Run Quickbooks Tool Hub, Choose Installation Issues, Then Click 331=71 Error Fix
+3371    Run Quickbooks Tool Hub, Choose Installation Issues, Then Click 3371 Error Fix
