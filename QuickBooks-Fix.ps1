@@ -33,3 +33,4 @@ Set-Service -Name QuickBooksDB32 -Computer pngserver01 -StartupType "Automatic"
 Set-Service -Name QBWCMonitor -Computer pngserver01 -StartupType "Automatic"                                                                                                      
 Set-Service -Name QBCFMonitorService -Computer pngserver01 -StartupType "Automatic"                                                                                               
 Set-Service -Name DNS -Computer pngserver01 -StartupType "Automatic"  
+ 
